@@ -20,5 +20,5 @@
 - Run `sudo vi /etc/environments`and set JAVA_HOME to the output from previous command as follows: `JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"`
 
 #### Install Openwhisk
-- get the enviroment files (called moc) from here. 
+- get the enviroment files (called moc) from (here)[vishalvrv9/slsfs-setup/moc]. 
 
